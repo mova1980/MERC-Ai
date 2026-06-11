@@ -1,0 +1,6 @@
+{
+  "name": "MERC AI Assistant",
+  "description": "دستیار تخصصی هوش مصنوعی پژوهشگاه مواد و انرژی همراه با چت صوتی و متنی، جستجوی دیتابیس مقالات داخلی، تحلیل پیشرفته فایل‌های PDF مقالات و قابلیت هماهنگ‌سازی خودکار با گوگل درایو.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
